@@ -1,0 +1,6 @@
+bitdotio[psycopg2-binary]
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
