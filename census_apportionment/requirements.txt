@@ -1,0 +1,8 @@
+bitdotio
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+python-dotenv
+psycopg
