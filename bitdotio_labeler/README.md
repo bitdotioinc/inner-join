@@ -15,7 +15,7 @@ This tool can easily be adapted for similar text labeling problems.
 - This is a quick prototype and admittedly not great code (yet). If you need help, please open a Github issue or simply email doss@bit.io. We are happy to help you adapt this tool for your own text labeling problem. 
 
 ## The database
-- The [database used  for this application](https://bit.io/bitdotio/stonks/#) is publicly readable but is only writable for our specified collaboraters. 
+- The [database used  for this application](https://bit.io/bitdotio/stonks/) is publicly readable but is only writable for our specified collaboraters. 
 
 ## A demo
 - We really like collaborating using Deepnote and set up [a publicly visible project](https://deepnote.com/project/wsblabelblog-W3UmuI59S0SFk6Zs92yDeQ/%2FSETUP_README.ipynb) that we used for this team data labeling effort. Using Deepnote, we can jump into a shared Python environment and open several terminals at once to label data in parallel without any local environment setup.  
